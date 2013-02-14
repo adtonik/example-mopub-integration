@@ -1,0 +1,3 @@
+[submodule "adtonik-client"]
+	path = adtonik-client
+	url = https://github.com/adtonik/adtonik-client
