@@ -1,3 +1,6 @@
 [submodule "adtonik-client"]
 	path = adtonik-client
 	url = https://github.com/adtonik/adtonik-client
+[submodule "mopub-client"]
+	path = mopub-client
+	url = git://github.com/mopub/mopub-client.git
